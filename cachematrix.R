@@ -37,3 +37,4 @@ cacheSolve <- function(x=matrix(), ...) {
     m
 }
 
+## This for run the response:>  a<-makeCacheMatrix()  > a$set(matrix(1:4,2,2))  > cacheSolve(a)
